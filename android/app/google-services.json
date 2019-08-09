@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210545451186",
+    "firebase_url": "https://busca-imoveis-d7deb.firebaseio.com",
+    "project_id": "busca-imoveis-d7deb",
+    "storage_bucket": "busca-imoveis-d7deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210545451186:android:cc5f824018e6c38e",
+        "android_client_info": {
+          "package_name": "com.busca_imovel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210545451186-23m4i2su412u71pegsbubgd4olguv30p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlwFbdL8z8pBNXWjWAO7KoVy6aiZ18m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210545451186-23m4i2su412u71pegsbubgd4olguv30p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
